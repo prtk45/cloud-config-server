@@ -1,0 +1,3 @@
+http://localhost:8080/server/url
+
+http://localhost:9001/spring-config-server/development
